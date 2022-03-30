@@ -15,12 +15,8 @@ Here are some ideas to get you started:
 
 # 👋👋
 
-<p align = "center">
-  ![image](https://user-images.githubusercontent.com/94399954/160896557-b3a0627b-f8cd-47a4-a6c4-142a63d24e54.png)
+ # Sobre Mi 😄
+ Actualmente estoy aprendiendo sobre Hacking Ético, Red Team y la materia relacionada con la Ciberseguridad, más concretamente con Penetration Testing.
 
-  <!--<img src="https://github.com/MBaeza00/Mbaeza00/blob/main/resources/dino.gif" />
-  <img src="https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" align="right" width="100" height="100"  />-->
-  
- </p>
- 
-Welcome and lets hack!
+### 👍👍
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=F73018C5&lines=¡Bienvenido+%24USER!;¡Este+es+mi+GitHub!)](https://git.io/typing-svg)

@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <p align = "left">
    <a href="https://www.linkedin.com/in/mbaeza00" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" target="_blank" height="70" ></a> 
 <a href="https://app.hackthebox.com/users/805063" target="_blank"><img src="https://miro.medium.com/max/768/1*n4gSd9adtSyz10nilEDdIQ.png" target="_blank" width="200" height="78"></a> 
-  
+  <a href="https://tryhackme.com/p/TheDarkiest" target="_blank"><img src="https://camo.githubusercontent.com/08d563b15afbf0eebb596ec615a154d64317ea32f453fecd36218f1321c41121/68747470733a2f2f692e696d6775722e636f6d2f33486e435a6a762e706e67" target="_blank" width="150" height="75"></a> 
+
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=F73018C5&lines=¡Bienvenido+%24USER!;¡Este+es+mi+GitHub!)](https://git.io/typing-svg)
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">

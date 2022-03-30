@@ -13,9 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align = "center">
-  <img src="https://github.com/MBaeza00/Mbaeza00/blob/main/resources/Screenshot_3.png?raw=true" />
+# 👋👋
 
-  <img src="https://github.com/MBaeza00/Mbaeza00/blob/main/resources/dino.gif" />
+<p align = "center">
+  ![image](https://user-images.githubusercontent.com/94399954/160896557-b3a0627b-f8cd-47a4-a6c4-142a63d24e54.png)
+
+  <!--<img src="https://github.com/MBaeza00/Mbaeza00/blob/main/resources/dino.gif" />
+  <img src="https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" align="right" width="100" height="100"  />-->
   
  </p>
+ 
+Welcome and lets hack!

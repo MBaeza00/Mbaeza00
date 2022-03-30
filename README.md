@@ -29,6 +29,10 @@ Here are some ideas to get you started:
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=F73018C5&lines=¡Bienvenido+%24USER!;¡Este+es+mi+GitHub!)](https://git.io/typing-svg)
 
+<p align = "center">
+  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snake"  />
+</p>
+
 ----------------
 
 # 

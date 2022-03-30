@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github.com/MBaeza00/Mbaeza00/blob/main/resources/Screenshot_3.png?raw=true" />
+<p align = "center">
+  <img src="https://github.com/MBaeza00/Mbaeza00/blob/main/resources/Screenshot_3.png?raw=true" />
 
-<img src="https://github.com/MBaeza00/Mbaeza00/blob/main/resources/dino.gif" />
+  <img src="https://github.com/MBaeza00/Mbaeza00/blob/main/resources/dino.gif" />
+  
+ </p>
